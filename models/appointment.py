@@ -71,7 +71,7 @@ class HospitalAppointment(models.Model):
         return {
             'type': 'ir.actions.act_url',
             'target': 'new',
-            'url': 'https://apps.odoo.com/apps/modules/15.0/om_hospital/',
+            'url': 'https://www.odoo.com',
         }
 
 
